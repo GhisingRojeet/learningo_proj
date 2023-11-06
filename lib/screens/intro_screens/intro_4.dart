@@ -16,7 +16,7 @@ class IntoFour extends StatelessWidget {
               height: 300,
             ),
             SizedBox(
-              height: 50,
+              height: 20,
             ),
             Container(
               height: 300,
